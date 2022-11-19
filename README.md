@@ -15,7 +15,11 @@
 
 ## Labs
 ### Week 01: lab_02
-N/A
+- printing_values.py
+- odd_even.py
+- magic_number.py
+- area_circle.py
+- BMI_calculator.py
 
 ### Week 02: lab_03
 N/A
