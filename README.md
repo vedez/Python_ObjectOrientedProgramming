@@ -1,5 +1,7 @@
 # Python_ObjectOrientedProgramming
 
+## About
+
 "This repository reflects my journey of learning basic object oriented programming using Python and a platform for programs I make throughout the module." - L Fernandez aka zedev
 
 |  | Details |
@@ -10,3 +12,13 @@
 | Lecturer |  Dr Lucas Rizzo |
 | Source | Technological University Dublin (TUD) |
 
+
+## Labs
+### Week 01: lab_01
+N/A
+
+### Week 02: lab_02
+N/A
+
+### Projects
+N/A
