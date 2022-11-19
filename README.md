@@ -14,10 +14,10 @@
 
 
 ## Labs
-### Week 01: lab_01
+### Week 01: lab_02
 N/A
 
-### Week 02: lab_02
+### Week 02: lab_03
 N/A
 
 ### Projects
