@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23ca8653-3f56-4120-b79c-aa672477de5a" name="Changes" comment="Updating Repository">
+    <list default="true" id="23ca8653-3f56-4120-b79c-aa672477de5a" name="Changes" comment="lab_02 complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
       <workItem from="1668879854777" duration="565000" />
       <workItem from="1668880432122" duration="849000" />
       <workItem from="1668881708592" duration="97000" />
-      <workItem from="1668881847772" duration="833000" />
+      <workItem from="1668881847772" duration="10546000" />
     </task>
     <task id="LOCAL-00001" summary="Added Labs File">
       <created>1668880042902</created>
@@ -96,7 +96,35 @@
       <option name="project" value="LOCAL" />
       <updated>1668881905991</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updating Repository">
+      <created>1668884276019</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668884276019</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updating lab_02 File">
+      <created>1668891505757</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668891505757</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updating lab_02 File">
+      <created>1668901864414</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668901864414</updated>
+    </task>
+    <task id="LOCAL-00009" summary="lab_02 complete">
+      <created>1668901931045</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668901931045</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,9 +146,17 @@
     <MESSAGE value="Added Labs File" />
     <MESSAGE value="helloWorld py File added" />
     <MESSAGE value="Updating Repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating Repository" />
+    <MESSAGE value="Updating lab_02 File" />
+    <MESSAGE value="lab_02 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab_02 complete" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_ObjectOrientedProgramming$printing_values.coverage" NAME="printing_values Coverage Results" MODIFIED="1668888369293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/lab_02" />
+    <SUITE FILE_PATH="coverage/Python_ObjectOrientedProgramming$area_circle.coverage" NAME="area_circle Coverage Results" MODIFIED="1668889242157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/lab_02" />
+    <SUITE FILE_PATH="coverage/Python_ObjectOrientedProgramming$magic_number.coverage" NAME="magic_number Coverage Results" MODIFIED="1668889584415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/lab_02" />
+    <SUITE FILE_PATH="coverage/Python_ObjectOrientedProgramming$odd_even.coverage" NAME="odd_even Coverage Results" MODIFIED="1668891367962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/lab_02" />
     <SUITE FILE_PATH="coverage/Python_ObjectOrientedProgramming$helloWorld.coverage" NAME="helloWorld Coverage Results" MODIFIED="1668881856817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs" />
+    <SUITE FILE_PATH="coverage/Python_ObjectOrientedProgramming$printing_values_Q7.coverage" NAME="printing_values_Q7 Coverage Results" MODIFIED="1668885527966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/lab_02" />
+    <SUITE FILE_PATH="coverage/Python_ObjectOrientedProgramming$BMI_calculator.coverage" NAME="BMI_calculator Coverage Results" MODIFIED="1668901841104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/lab_02" />
   </component>
 </project>
