@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23ca8653-3f56-4120-b79c-aa672477de5a" name="Changes" comment="lab_02 complete">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="23ca8653-3f56-4120-b79c-aa672477de5a" name="Changes" comment="lab_02 complete" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +58,7 @@
       <workItem from="1668880432122" duration="849000" />
       <workItem from="1668881708592" duration="97000" />
       <workItem from="1668881847772" duration="10546000" />
+      <workItem from="1668902497756" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="Added Labs File">
       <created>1668880042902</created>
